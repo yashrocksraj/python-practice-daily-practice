@@ -5,4 +5,4 @@ try:
     print("temp in celcius:",cel)
 
 except:
-    print("Error !!! please enter a numeric value..")  
+    print("error please enter a n")  
